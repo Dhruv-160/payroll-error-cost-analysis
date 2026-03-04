@@ -22,3 +22,5 @@ Payroll errors lead to financial loss, rework, and SLA breaches. This project an
  
 ## Outcome
 The analysis highlights automation and early validation controls as key levers to reduce payroll error costs and improve SLA performance.
+
+![Dashboard](dashboard_overview.png)
